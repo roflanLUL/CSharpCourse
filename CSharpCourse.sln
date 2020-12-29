@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson1", "Lesson1", "{2E83C09F-8F22-4D4D-895F-98821231E167}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework1", "Homework1", "{493860BD-E023-48D0-8EBB-FB42A52A835C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1_Task1", "Lesson1\Homework1\HW1_Task1\HW1_Task1.csproj", "{CD221176-EABE-463F-ABCD-FE534D96849D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1_Task2", "Lesson1\Homework1\HW1_Task2\HW1_Task2.csproj", "{6E825BD3-8F84-4798-A9F8-606220D9A4E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{493860BD-E023-48D0-8EBB-FB42A52A835C} = {2E83C09F-8F22-4D4D-895F-98821231E167}
+		{CD221176-EABE-463F-ABCD-FE534D96849D} = {493860BD-E023-48D0-8EBB-FB42A52A835C}
+		{6E825BD3-8F84-4798-A9F8-606220D9A4E4} = {493860BD-E023-48D0-8EBB-FB42A52A835C}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD221176-EABE-463F-ABCD-FE534D96849D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD221176-EABE-463F-ABCD-FE534D96849D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD221176-EABE-463F-ABCD-FE534D96849D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD221176-EABE-463F-ABCD-FE534D96849D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E825BD3-8F84-4798-A9F8-606220D9A4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E825BD3-8F84-4798-A9F8-606220D9A4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E825BD3-8F84-4798-A9F8-606220D9A4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E825BD3-8F84-4798-A9F8-606220D9A4E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
