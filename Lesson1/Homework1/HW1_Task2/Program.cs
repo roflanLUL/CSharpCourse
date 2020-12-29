@@ -4,7 +4,7 @@ namespace HW1_Task2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var dividend = TryGetNumber("divisible value");
             var divider = TryGetNumber("divisor");
