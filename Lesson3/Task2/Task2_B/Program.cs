@@ -4,7 +4,7 @@ namespace Task2_B
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var n = int.Parse(Console.ReadLine());
             var line = new int[7];
